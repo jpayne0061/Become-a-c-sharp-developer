@@ -1,37 +1,17 @@
-## Welcome to THE TEST PAGE
+## What Does This Course Cover?
 
-You can use the [editor on GitHub](https://github.com/jpayne0061/Become-a-c-sharp-developer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This course covers everything you need to know to become an employable C# developer. You will learn by building real world applications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+##What Technologies Will I Learn? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The technologies covered in this course are those most likely to be desired by an employer. If you search any job board, there is a common theme of desired technologies for a C# developer. What varies between job listings is the framework used by the employer(asp.net MVC/classic asp.net, WPF, AngularJs/Angular2, etc). We will invest the majority of our time learning skills that central to C# developement. While we will cover MVC, frameworks are not the focus of this course. Here are the core technologies we will cover:
 
-```markdown
-Syntax highlighted code block
+- C#
+- Javascript
+- Sql
 
-# Header 1
-## Header 2
-### Header 3
+###How Long Does It Take To Become Employable?
 
-- Bulleted
-- List
+If you're investing 40+ hours a week, then you can become employable in about 6 months. If you're working on this part-time(nights and weekends), then about 9 months. Obviously, it depends on the person. If you have previous, related experience(QA, System Admin, etc), then it will be easier to get hired for your first dev job. If you have no experience prior to your first dev job(like me), then it will be tougher to get your foot in the door. But, no sweat! We will make a ton of awesome projects to impress your prospective employers!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jpayne0061/Become-a-c-sharp-developer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
